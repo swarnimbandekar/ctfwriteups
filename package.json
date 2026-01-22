@@ -1,8 +1,7 @@
 {
   "name": "ctfwriteups",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
-  "homepage": "https://github.com/swarnimbandekar/ctfwriteups",
   "type": "module",
   "scripts": {
     "dev": "vite",
