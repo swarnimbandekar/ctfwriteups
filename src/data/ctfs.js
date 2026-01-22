@@ -1,15 +1,15 @@
 export const ctfs = [
   {
-    id: 1,
+    id: 4,
     name: "Knight CTF 2026",
     date: "Jan 2026",
     rank: "Participant",
-    link: "#",
+    link: "https://swarnimbandekar.github.io/knightctf26/",
     image: "https://ctftime.org/media/cache/eb/72/eb72f766ca7ff85a3d8fd5d10d756ab1.png",
     tags: ["Web", "Rev", "Misc"]
   },
   {
-    id: 2,
+    id: 3,
     name: "Project Atlas CTF",
     date: "Jan 2026",
     rank: "1st",
@@ -18,7 +18,7 @@ export const ctfs = [
     tags: ["Web", "Rev", "Crypto", "Misc"]
   },
   {
-    id: 3,
+    id: 2,
     name: "MR Robot CTF",
     date: "Jan 2026",
     rank: "1st",
@@ -27,7 +27,7 @@ export const ctfs = [
     tags: ["Box", "Web"]
   },
   {
-    id: 4,
+    id: 1,
     name: "Bypass CTF 2025",
     date: "Dec 2025",
     rank: "Participant",
