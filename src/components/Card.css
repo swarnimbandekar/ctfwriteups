@@ -89,3 +89,17 @@
     border-color: var(--accent-color);
     color: var(--text-primary);
 }
+
+@media (max-width: 480px) {
+    .card-image-container {
+        height: 160px;
+    }
+
+    .card-content {
+        padding: 1.25rem;
+    }
+
+    .card-title {
+        font-size: 1.1rem;
+    }
+}
